@@ -1,5 +1,6 @@
 # ⭐Plant-Disease-Detection
-* Plant Disease is necessary for every farmer so we are created Plant disease detection using Deep learning. In which we are using convolutional Neural Network for classifying Leaf images into 39 Different Categories. The Convolutional Neural Code build in Pytorch Framework. For Training we are using Plant village dataset. Dataset Link is in My Blog Section.
+* Plant Disease is necessary for every farmer so we are created Plant disease detection using Deep learning. In which we are using convolutional Neural Network for classifying Leaf images into 39 Different Categories. The Convolutional Neural Code build in Pytorch Framework. For Training we are using Plant village dataset.
+* There is a total of 39 Classes that we have to predict using the CNN Model.
 
 ## ⭐Run Project in your Machine
 * You must have **Python3.8** installed in your machine.
